@@ -1,0 +1,19 @@
+
+
+/data
+
+/data/EdStatsData.csv
+
+EdStatsData.csv:
+    wget http://databank.worldbank.org/data/download/EdStats_csv.zip
+    unzip EdStats_csv.zip
+    rm EdStats_csv.zip
+
+
+/datat@:
+    mkdir -p /datat
+    ln -s /datat /data
+
+
+
+
