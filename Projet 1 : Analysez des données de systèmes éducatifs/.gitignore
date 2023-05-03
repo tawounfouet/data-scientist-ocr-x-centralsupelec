@@ -1,8 +1,8 @@
 
 
-/data
 
-/data/EdStatsData.csv
+data/EdStatsData.csv
+data/EdStatsFootNote.csv
 
 EdStatsData.csv:
     wget http://databank.worldbank.org/data/download/EdStats_csv.zip
