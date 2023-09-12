@@ -1,4 +1,4 @@
-# Parcours Data Scientist - OpenClassrooms
+![image](https://github.com/tawounfouet/Parcours_Data-Scientist_Openclassrooms/assets/78394330/9d84ff69-a66e-4142-bc13-1f719cddcd62)# Parcours Data Scientist - OpenClassrooms
 
 Ce dépôt contient les projets réalisés dans le cadre du parcours Data Scientist d'OpenClassrooms. Le parcours est composé de 08 projets réalisés en Python en R.  
 - Chaque projet est contenu dans un dossier séparé, et contient un fichier `README.md` décrivant le projet et les fichiers utilisés. 
@@ -19,7 +19,7 @@ Dans ce projet, nous avons travaillé pour une StartUp qui propose des formation
 - Maîtriser les opérations fondamentales du langage Python pour la Data Science
 - Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
 
-## Projet 2 : Concevez une application au service de la santé publique
+## Projet 2 : Concevez une application au service de la santé publique en 
 Dans ce projet, nous avons travaillé avec l'agent de santé publique de la ville de Paris, qui souhaite développer un outil de prédiction du nutriscore des produits alimentaires. Cet outil permettra de prédire le nutriscore d'un produit à partir de ses caractéristiques nutritionnelles, et de proposer des substituts plus sains aux produits ayant un mauvais nutriscore.
 
 **Compétences développées** :
@@ -37,7 +37,7 @@ Dans ce projet, nous avons travaillé pour une entreprise de gestion de l'énerg
 - Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
 - Évaluer les performances d’un modèle d'apprentissage supervisé
 
-## Projet 4 : Segmentez des clients d'un site e-commerce
+## Projet 4 : Segmentez des clients du site e-commerce Olist
 Dans ce projet, nous avons travaillé pour une entreprise de e-commerce, qui souhaite segmenter ses clients pour mieux les comprendre et adapter ses actions marketing. Nous avons réalisé une segmentation des clients à partir de leurs achats, et nous avons proposé des actions marketing adaptées à chaque segment.
 
 **Compétences développées** :
