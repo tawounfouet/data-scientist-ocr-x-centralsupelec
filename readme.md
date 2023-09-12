@@ -1,4 +1,4 @@
-![image](https://github.com/tawounfouet/Parcours_Data-Scientist_Openclassrooms/assets/78394330/9d84ff69-a66e-4142-bc13-1f719cddcd62)# Parcours Data Scientist - OpenClassrooms
+# Parcours Data Scientist - OpenClassrooms
 
 Ce dépôt contient les projets réalisés dans le cadre du parcours Data Scientist d'OpenClassrooms. Le parcours est composé de 08 projets réalisés en Python en R.  
 - Chaque projet est contenu dans un dossier séparé, et contient un fichier `README.md` décrivant le projet et les fichiers utilisés. 
