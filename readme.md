@@ -1,4 +1,5 @@
 # Parcours Data Scientist - CentralSupelec x OpenClassrooms
+Réalisation des analyses de données et des prédictions métiers poussées grâce à la data science. 
 
 Ce dépôt contient les projets réalisés dans le cadre du parcours Data Scientist d'OpenClassrooms. Le parcours est composé de 08 projets réalisés en Python en R.  
 - Chaque projet est contenu dans un dossier séparé, et contient un fichier `README.md` décrivant le projet et les fichiers utilisés. 
