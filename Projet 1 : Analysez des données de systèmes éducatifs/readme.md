@@ -20,13 +20,7 @@ Afficher le logo de la StartUp academy à partir du fichier `academy-logo.png`:
 
 Les données utilisées dans ce projet sont issuesde la Banque Mondiale. Elles sont disponibles dans le dossier `data` du projet et accessibles en ligne à l'adresse suivante : https://datacatalog.worldbank.org/dataset/education-statistics. Elles sont regroupées dans des fichiers csv.
 
-La Banque mondiale met à disposition des données sur l’éducation dans le monde. Notamment sur les effectifs, les enseignants, les dépenses, les résultats d’apprentissage, les diplômes, les caractéristiques des établissements d’enseignement, les données d’enquête auprès des ménages, les projections, etc. Ces données sont issues de sources officielles nationales, de rapports de pays préparés par les équipes de la Banque mondiale et d’estimations de la Banque mondiale.
 
-Les requête sur indicateurs statistiques lié à l'éducation de la Banque mondiale contient plus de 4 000 indicateurs comparables au niveau international qui décrivent l'accès à l'éducation, la progression, l'achèvement, l'alphabétisation, les enseignants, la population et les dépenses. Ces indicateurs couvrent le cycle d'enseignement, du préprimaire à l'enseignement professionnel et supérieur.
-
-**Autres Sources** : 
-- https://www.kaggle.com/theworldbank/education-statistics
-- https://www.kaggle.com/theworldbank/world-bank-intl-education
 
 
 
