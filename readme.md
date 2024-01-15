@@ -9,7 +9,7 @@ Ce dépôt contient les projets réalisés dans le cadre du parcours Data Scient
 - Les projets sont réalisés dans des notebooks Jupyter
 
 
-## Projet 1 : Analysez des données de systèmes éducatifs
+## Projet 1 : Analysez des données de systèmes éducatifs de la banque mondiale
 Dans ce projet, nous avons travaillé pour une StartUp qui propose des formations en ligne et qui souhaite développer son activité à l'international. Pour cela, elle souhaite proposer ses formations dans des pays où le niveau d'éducation est élevé.Pour l'aider dans sa démarche, nous avons analysé les données du systèmes éducatifs, issues de l'OCDE et de la Banque Mondiale. Nous avons cherché à comprendre les facteurs qui influencent le niveau d'éducation des pays, et à prédire le niveau d'éducation d'un pays à partir de ces facteurs. 
 
 **Compétences Développées** :
@@ -19,7 +19,7 @@ Dans ce projet, nous avons travaillé pour une StartUp qui propose des formation
 - Maîtrise des opérations fondamentales du langage Python pour la Data Science 
 - Utilisation d'un notebook Jupyter pour faciliter la rédaction du code et la collaboration
 
-## Projet 2 : Concevez une application au service de la santé publique 
+## Projet 2 : Conception d'une application au service de la santé publique 
 Dans ce projet, nous avons travaillé avec un agent de santé publique de la ville de Paris, qui souhaitait développer un outil de prédiction du nutriscore des produits alimentaires. Cet outil permettra de prédire le nutriscore d'un produit à partir de ses caractéristiques nutritionnelles, et de proposer des substituts plus sains aux produits ayant un mauvais nutriscore.
 
 **Compétences EvDéveloppéesaluées** :
@@ -28,7 +28,7 @@ Dans ce projet, nous avons travaillé avec un agent de santé publique de la vil
 - Communication des résultats à l’aide de représentations graphiques lisibles et pertinentes
 - Réalisation d'opérations de nettoyage sur des données structurées
 
-## Projet 3 : Anticipez les besoins en consommation électrique de bâtiments
+## Projet 3 : Anticipation des besoins en consommation électrique de bâtiments
 Dans ce projet, nous avons travaillé pour une entreprise de gestion de l'énergie, qui souhaitait développer un outil de prédiction de la consommation électrique de bâtiments. Cet outil permettra de prédire la consommation électrique d'un bâtiment à partir de ses caractéristiques, et de proposer des actions d'optimisation de la consommation électrique.
 
 **Compétences Développées** :
@@ -37,7 +37,7 @@ Dans ce projet, nous avons travaillé pour une entreprise de gestion de l'énerg
 - Transformation des variables pertinentes pour les modèles d'apprentissage supervisé
 - Évaluation des performances des modèles d'apprentissage supervisé
 
-## Projet 4 : Segmentez des clients du site e-commerce Olist
+## Projet 4 : Segmentation des clients du site e-commerce Olist
 Dans ce projet, nous avons travaillé pour une entreprise de e-commerce, qui souhaitait segmenter ses clients pour mieux les comprendre et adapter ses actions marketing. Nous avons réalisé une segmentation des clients à partir de leurs achats, et nous avons proposé des actions marketing adaptées à chaque segment.
 
 **Compétences Développées** :
@@ -46,7 +46,7 @@ Dans ce projet, nous avons travaillé pour une entreprise de e-commerce, qui sou
 - Transformation des variables pertinentes pour les modèles d'apprentissage non supervisé
 - Mise en place de modèles d'apprentissage non supervisé adaptés aux problèmes métiers
 
-## Projet 5 : Classifiez automatiquement des biens de consommation
+## Projet 5 : Classification automatique des biens de consommation du site e-commerce
 Dans ce projet, nous avons travaillé pour une entreprise de e-commerce, qui souhaite développer un outil de classification automatique de ses produits. Cet outil permettra de classer automatiquement les produits à partir de leur description et image, et de proposer des catégories adaptées à chaque produit.
 
 **Compétences Développées** :
@@ -58,7 +58,7 @@ Dans ce projet, nous avons travaillé pour une entreprise de e-commerce, qui sou
 - Définition de la stratégie d’élaboration d’un modèle d'apprentissage profond
 - Évaluation de la performance des modèles d’apprentissage profond selon différents critères
 
-## Projet 6 : Implémentez un modèle de scoring
+## Projet 6 : Implémentation un modèle de scoring de crédit
 Dans ce projet, nous avons travaillé pour une entreprise de crédit à la consommation, qui souhaite développer un outil de scoring pour évaluer la solvabilité de ses clients. Cet outil permettra de prédire la probabilité de défaut de paiement d'un client à partir de ses caractéristiques, et de proposer des actions adaptées à chaque client.
 
 **Compétences Développées** :
@@ -72,7 +72,7 @@ Dans ce projet, nous avons travaillé pour une entreprise de crédit à la conso
 - Déploiement d'un modèle via une API sur le Web
 - Définition et mise en œuvre d'un pipeline d’entraînement des modèles
 
-## Projet 7 : Déployez un modèle dans le cloud
+## Projet 7 : Mise en place d'un environnement Big Data et Déploiement un modèle d'un modèle de classification de fruits
 Dans ce projet, nous avons travaillé pour une  start-up de l'AgriTech, nommée  "Fruits!". Elle souhaite dans un premier temps se faire connaître en mettant à disposition du grand public une application mobile qui permettrait aux utilisateurs de prendre en photo un fruit et d'obtenir des informations sur ce fruit. Pour cela, nous avons développé un modèle de classification des fruits, et nous l'avons déployé dans le cloud avec AWS. Nous avons également mis en place une API pour permettre à l'application mobile d'interagir avec le modèle.
 
 **Compétences Développées** :
