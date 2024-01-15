@@ -9,7 +9,7 @@ Ce dépôt contient les projets réalisés dans le cadre du parcours Data Scient
 - Les projets sont réalisés dans des notebooks Jupyter
 
 
-## Projet 1 : Analysez des données de systèmes éducatifs de la banque mondiale
+## Projet 1 : Analyse des données de systèmes éducatifs de la banque mondiale
 Dans ce projet, nous avons travaillé pour une StartUp qui propose des formations en ligne et qui souhaite développer son activité à l'international. Pour cela, elle souhaite proposer ses formations dans des pays où le niveau d'éducation est élevé.Pour l'aider dans sa démarche, nous avons analysé les données du systèmes éducatifs, issues de l'OCDE et de la Banque Mondiale. Nous avons cherché à comprendre les facteurs qui influencent le niveau d'éducation des pays, et à prédire le niveau d'éducation d'un pays à partir de ces facteurs. 
 
 **Compétences Développées** :
