@@ -1,0 +1,3 @@
+Pipeline(steps=[('simpleimputer',
+                 SimpleImputer(fill_value='Unknown', strategy='constant')),
+                ('onehotencoder', OneHotEncoder(handle_unknown='ignore'))])

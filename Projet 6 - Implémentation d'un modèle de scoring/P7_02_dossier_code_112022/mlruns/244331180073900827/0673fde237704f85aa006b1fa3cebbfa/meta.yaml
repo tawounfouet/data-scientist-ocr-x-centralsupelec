@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/awf/Openclassrooms/P7%20-%20Implementez%20un%20moe%CC%80le%20de%20scoring/P7_Awounfouet_Thomas_112022/mlruns/244331180073900827/0673fde237704f85aa006b1fa3cebbfa/artifacts
+deleted_time: 1671765421210
+end_time: 1671764568043
+entry_point_name: ''
+experiment_id: '244331180073900827'
+lifecycle_stage: deleted
+run_id: 0673fde237704f85aa006b1fa3cebbfa
+run_name: dummy_classifier_default
+run_uuid: 0673fde237704f85aa006b1fa3cebbfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671764568026
+status: 4
+tags: []
+user_id: awf

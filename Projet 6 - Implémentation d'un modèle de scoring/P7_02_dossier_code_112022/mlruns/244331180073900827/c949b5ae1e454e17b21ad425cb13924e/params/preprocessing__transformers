@@ -1,0 +1,8 @@
+[('num', Pipeline(steps=[('simpleimputer', SimpleImputer(strategy='median')),
+                ('standardscaler', StandardScaler())]), Index(['CNT_CHILDREN', 'AMT_INCOME_TOTAL', 'AMT_CREDIT', 'AMT_ANNUITY',
+       'AMT_GOODS_PRICE', 'REGION_POPULATION_RELATIVE', 'DAYS_BIRTH',
+       'DAYS_EMPLOYED', 'DAYS_REGISTRATION', 'DAYS_ID_PUBLISH',
+       ...
+       'cc_bal_CNT_DRAWINGS_OTHER_CURRENT', 'cc_bal_CNT_DRAWINGS_POS_CURRENT',
+       'cc_bal_CNT_INSTALMENT_MATURE_CUM', 'cc_bal_SK_DPD',
+       ...

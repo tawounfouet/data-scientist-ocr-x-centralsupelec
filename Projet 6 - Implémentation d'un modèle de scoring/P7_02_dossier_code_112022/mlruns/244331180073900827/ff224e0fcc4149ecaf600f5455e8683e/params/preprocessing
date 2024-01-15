@@ -1,0 +1,7 @@
+ColumnTransformer(transformers=[('num',
+                                 Pipeline(steps=[('simpleimputer',
+                                                  SimpleImputer(strategy='median')),
+                                                 ('standardscaler',
+                                                  StandardScaler())]),
+                                 Index(['CNT_CHILDREN', 'AMT_INCOME_TOTAL', 'AMT_CREDIT', 'AMT_ANNUITY',
+       'AMT_GOODS_PRICE', 'REGION_POPULATION_RELATIVE', 'DAYS...

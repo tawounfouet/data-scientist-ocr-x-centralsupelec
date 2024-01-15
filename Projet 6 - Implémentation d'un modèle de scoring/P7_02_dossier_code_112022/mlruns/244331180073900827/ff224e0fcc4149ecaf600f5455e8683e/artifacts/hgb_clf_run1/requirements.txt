@@ -1,0 +1,6 @@
+mlflow
+cloudpickle==2.0.0
+pandas-stubs==1.2.0.39
+psutil==5.8.0
+scikit-learn==1.1.2
+typing-extensions==4.3.0
